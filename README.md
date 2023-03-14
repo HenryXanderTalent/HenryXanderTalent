@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Henry Opara 👋, a Junior Full-Stack Developer.
+<h2 align="center">### I'm Henry Opara 👋, a Junior Full-Stack Developer.</h2>
 
 🌱 Graduated from the QA Academy bootcamp (July 2021 Cohort)
 🔭 I’m currently working as a Software Engineer at Xander Talent
