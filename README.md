@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 
 <h2 align="center">I'm Henry Opara 👋, a Junior Full-Stack Developer.</h2>
 
-
-
-🌱 Graduated from the QA Academy bootcamp (July 2021 Cohort)<br>
-🔭 I’m currently working as a Software Engineering Consultant at Xander Talent<br>
-🥅 2023 Goals: Turn my ideas into working prototypes in order to stretch myself and subsquently excelerate my learning<br>
-⚡ Fun facts: I enjoy going to the gym 🏋️ playing football and studying the stock market to understand the future trends and invest<br>
+-🌱 Graduated from the QA Academy bootcamp (July 2021 Cohort)<br>
+-🔭 I’m currently working as a Software Engineering Consultant at Xander Talent<br>
+-🥅 2023 Goals: Turn my ideas into working prototypes in order to stretch myself and subsquently excelerate my learning<br>
+-⚡ Fun facts: I enjoy going to the gym 🏋️ playing football and studying the stock market to understand the future trends and invest<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
 </div>
 
-After being made redundant from my previous career I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined QA Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of April 2023 I started my journey as a Software Engineering Consultant.
+<p>After being made redundant from my previous career I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined QA Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of April 2023 I started my journey as a Software Engineering Consultant.</p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />
 
