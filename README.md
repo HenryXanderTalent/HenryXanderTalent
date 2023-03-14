@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm Courtney 👋
-🌱 Graduated from the Makers Academy bootcamp (Oct2021 Cohort)
+Hi there, I'm Henry 👋
+🌱 Graduated from the QA Academy bootcamp (July 2021 Cohort)
 🔭 I’m currently working as a Software Engineer at Xander Talent
-🥅 2023 Goals: Maximise my learning, contribute to new projects
-⚡ Fun facts: I enjoy going to the gym 🏋️ playing the drums 🥁 playing video games 🎮
-After being made redundant from my previous job I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined Makers Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of September 2022 I started my journey as a Software Engineering Consultant.
+🥅 2023 Goals: Turn my ideas into working prototypes in order to stretch myself and subsquently excelerate my learning
+⚡ Fun facts: I enjoy going to the gym 🏋️ playing football and studying the stock market to understand the future trends and invest
+
+After being made redundant from my previous career I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined QA Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of April 2023 I started my journey as a Software Engineering Consultant.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 
 I now have a strong understanding of the software development life cycle and a passion for delivering high-quality, well-designed products. I have experienced a variety of programming languages, including Python, JavaScript and Ruby. I have also worked with web development frameworks such as Django, React and Ruby on Rails.
 
