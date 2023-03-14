@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HenryXanderTalent/HenryXanderTalent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +18,10 @@ Here are some ideas to get you started:
 
 
 
-🌱 Graduated from the QA Academy bootcamp (July 2021 Cohort)
-🔭 I’m currently working as a Software Engineering Consultant at Xander Talent
-🥅 2023 Goals: Turn my ideas into working prototypes in order to stretch myself and subsquently excelerate my learning
-⚡ Fun facts: I enjoy going to the gym 🏋️ playing football and studying the stock market to understand the future trends and invest
+🌱 Graduated from the QA Academy bootcamp (July 2021 Cohort)<br>
+🔭 I’m currently working as a Software Engineering Consultant at Xander Talent<br>
+🥅 2023 Goals: Turn my ideas into working prototypes in order to stretch myself and subsquently excelerate my learning<br>
+⚡ Fun facts: I enjoy going to the gym 🏋️ playing football and studying the stock market to understand the future trends and invest<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
