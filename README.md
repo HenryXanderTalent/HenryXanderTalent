@@ -23,7 +23,7 @@ Hi there, I'm Henry 👋
 
 After being made redundant from my previous career I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined QA Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of April 2023 I started my journey as a Software Engineering Consultant.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />
 
 
 I now have a strong understanding of the software development life cycle and a passion for delivering high-quality, well-designed products. I have experienced a variety of programming languages, including Python, JavaScript and Ruby. I have also worked with web development frameworks such as Django, React and Ruby on Rails.
