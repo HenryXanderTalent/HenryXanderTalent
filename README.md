@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
 </div>
 
+<h2>Summary</h2>
+
 <p>After being made redundant from my previous career I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined QA Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of April 2023 I started my journey as a Software Engineering Consultant.</p>
 
 <p>I now have a strong understanding of the software development life cycle and a passion for delivering high-quality, well-designed products. I have experienced a variety of programming languages, including Java, Python, JavaScript and SQL. I have also worked with web development frameworks such as Django, React and Angular on Rails.</p>
