@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 # Let's do something!
 <p><a href="https://www.linkedin.com/in/henry-opara-56323720b/">Connect with me on LinkedIn</a>
-<p>You can reach me at **henry.opara@xandertalent.com*</p>
+<p>Email me at **henry.opara@xandertalent.com**</p>
 
 ## Languages and Tools I'm Using
 <p>
