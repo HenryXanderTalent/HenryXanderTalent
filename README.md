@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm Henry 👋
+
+I'm Henry Opara 👋, a Junior Full-Stack Developer.
+
 🌱 Graduated from the QA Academy bootcamp (July 2021 Cohort)
 🔭 I’m currently working as a Software Engineer at Xander Talent
 🥅 2023 Goals: Turn my ideas into working prototypes in order to stretch myself and subsquently excelerate my learning
@@ -26,7 +28,7 @@ After being made redundant from my previous career I thought it was time for a c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />
 
 
-I now have a strong understanding of the software development life cycle and a passion for delivering high-quality, well-designed products. I have experienced a variety of programming languages, including Python, JavaScript and Ruby. I have also worked with web development frameworks such as Django, React and Ruby on Rails.
+I now have a strong understanding of the software development life cycle and a passion for delivering high-quality, well-designed products. I have experienced a variety of programming languages, including Java, Python, JavaScript and SQL. I have also worked with web development frameworks such as Django, React and Angular on Rails.
 
 I enjoy working on challenging projects that require creative problem-solving and attention to detail, and I am always eager to learn new technologies and programming languages. I am a motivated and collaborative team player who is dedicated to delivering outstanding results on every project I work on.
 
