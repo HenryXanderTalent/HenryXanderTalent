@@ -31,10 +31,13 @@ Here are some ideas to get you started:
 
 <p>I enjoy working on challenging projects that require creative problem-solving and attention to detail, and I am always eager to learn new technologies and programming languages. I am a motivated and collaborative team player who is dedicated to delivering outstanding results on every project I work on.</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DesignedByQ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![stats](https://github-readme-stats.vercel.app/api?username=DesignedByQ&show_icons=true&&count_private=true&include_all_commits=true)
+
 # Let's do something!
 <p><a href="https://www.linkedin.com/in/henry-opara-56323720b/">Connect with me on LinkedIn</a>
-<p>Email me at <a href="henry.opara@xandertalent.com">henry.opara@xandertalent.com</a></p>
-You can reach me at **henry.opara@xandertalent.com**
+<p>Email me at henry.opara@xandertalent.com</p>
 
 ## Languages and Tools I'm Using
 <p>
