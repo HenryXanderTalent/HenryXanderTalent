@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 # Let's do something!
 <p><a href="https://www.linkedin.com/in/henry-opara-56323720b/">Connect with me on LinkedIn</a>
 <p>Email me at <a href="henry.opara@xandertalent.com">henry.opara@xandertalent.com</a></p>
+You can reach me at **henry.opara@xandertalent.com**
 
 ## Languages and Tools I'm Using
 <p>
