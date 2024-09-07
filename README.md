@@ -16,18 +16,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">I'm Henry Opara 👋, a Junior Full-Stack Developer.</h1>
 
-- 🌱 Graduated from the QA Academy bootcamp (July 2021 Cohort)<br>
-- 🔭 I’m currently working as a Software Engineering Consultant at Xander Talent<br>
-- 🥅 2023 Goals: Turn my ideas into working prototypes in order to stretch myself and subsequently excelerate my learning<br>
-- ⚡ Fun facts: I enjoy going to the gym 🏋️ playing football and studying the stock market to understand the future trends and invest<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
-</div>
+- 🌱 Graduated from the QA Academy bootcamp (July 2022 Cohort)<br>
+- 🔭 I’m currently working as a Software Engineering at Infosys Ltd. and studying a Masters in Computer Science and Artificial Intelligence Part Time<br>
+- 🥅 2024 Goals: Turn my ideas into working prototypes in order to stretch myself and subsequently excelerate my learning<br>
+- ⚡ Fun facts: I enjoy going to the gym 🏋️ playing football and studying the stock market to understand the future global trends<br>
 
 <h1>Summary</h1>
 
-<p>After being made redundant from my previous career I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined QA Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of April 2023 I started my journey as a Software Engineering Consultant.</p>
+<p>After being made redundant from my previous career I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined QA Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. </p>
 
 <p>I now have a strong understanding of the software development life cycle and a passion for delivering high-quality, well-designed products. I have experienced a variety of programming languages, including Java, Python, JavaScript and SQL. I have also worked with web development frameworks such as Django, Spring, React and Angular.</p>
 
