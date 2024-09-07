@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Henry Opara 👋, a Junior Full-Stack Developer.</h1>
 
 - 🌱 Graduated from the QA Academy bootcamp (July 2022 Cohort)<br>
-- 🔭 I’m currently working as a Software Engineering at Infosys Ltd. and studying a Masters in Computer Science and Artificial Intelligence Part Time<br>
+- 🔭 I’m currently working as a Software Engineering and studying a Masters in Computer Science & Artificial Intelligence Part Time<br>
 - 🥅 2024 Goals: Turn my ideas into working prototypes in order to stretch myself and subsequently excelerate my learning<br>
 - ⚡ Fun facts: I enjoy going to the gym 🏋️ playing football and studying the stock market to understand the future global trends<br>
 
